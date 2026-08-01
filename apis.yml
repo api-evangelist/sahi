@@ -1,7 +1,27 @@
 aid: sahi
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sahi.png
 name: Sahi
-description: 'Sahi is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Sahi is a high-performance Indian stock trading platform built for active retail
+  traders, operated by Aaritya Broking Private Limited (SEBI INZ000317632) and based
+  in Bangalore. Founded by Dale Vaz (former Swiggy CTO) and Manish Jain (former Kotak
+  Securities executive), Sahi offers futures & options trading, equity/stock trading,
+  IPO applications, and ETF investing at a flat brokerage of Rs.10 per executed order.
+  The mobile-native platform emphasizes millisecond order-execution latency, an in-house
+  charting tool (Sahi Charts), real-time stock scanners, AI-backed market intelligence,
+  and SEBI-registered research. Sahi is an Accel portfolio company. It does not currently
+  publish a public developer API, but it does publish a machine-readable /llms.txt.
 url: https://raw.githubusercontent.com/api-evangelist/sahi/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Fintech
+- Stock Trading
+- Brokerage
+- Investing
+- Options Trading
+- India
+- Capital Markets
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +49,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://sahi.com/
+  url: https://www.sahi.com/
+- type: About
+  url: https://www.sahi.com/about
+- type: Pricing
+  url: https://www.sahi.com/pricing
+- type: Blog
+  url: https://www.sahi.com/blogs/
+- type: HelpCenter
+  url: https://www.sahi.com/support
+- type: TermsOfService
+  url: https://www.sahi.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.sahi.com/privacy-policy
+- type: Regulatory
+  url: https://www.sahi.com/regulatory
+- type: LLMsTxt
+  url: llms/sahi-llms.txt
+- type: WellKnown
+  url: well-known/sahi-well-known.yml
+- type: DomainSecurity
+  url: security/sahi-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

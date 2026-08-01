@@ -1,0 +1,31 @@
+generated: '2026-07-21'
+method: probed
+source: HTTP probes of https://www.sahi.com/.well-known/* and /llms.txt
+host: www.sahi.com
+probes:
+- path: /llms.txt
+  status: 200
+  file: ../llms/sahi-llms.txt
+- path: /.well-known/security.txt
+  status: 403
+  file: null
+- path: /.well-known/openid-configuration
+  status: 403
+  file: null
+- path: /.well-known/oauth-authorization-server
+  status: 403
+  file: null
+- path: /.well-known/api-catalog
+  status: 403
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 403
+  file: null
+notes: >-
+  www.sahi.com is behind a CDN/WAF that returns 403 for /.well-known/* paths to
+  non-browser clients (tried default and browser User-Agent). No security.txt,
+  OpenID, OAuth authorization-server, api-catalog, or ai-plugin manifest was
+  retrievable. A public /llms.txt IS published and captured verbatim in llms/.
+  No public developer/API subdomain resolves (docs., developer., api. sahi.com
+  all failed to connect). robots.txt Disallows /api (Next.js internal route),
+  confirming no public REST API surface.

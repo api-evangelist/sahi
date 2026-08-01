@@ -1,0 +1,74 @@
+# Sahi
+Last updated: 2026-06-04
+
+> Sahi is a high-performance Indian stock trading platform built for active retail traders. It offers futures & options trading, real-time stock scanners, IPO applications, and AI-powered market intelligence - all at ₹10 per executed order.
+
+Sahi is SEBI-registered, rated 4.5★ with 23,000+ reviews, 4M+ downloads, and is the IFTA Startup of the Year 2025. The platform is designed for mobile-native, high-frequency traders who need speed, single-screen execution, and low-cost brokerage. Sahi is operated by Aaritya Broking Private Limited (SEBI INZ000317632) and was founded by Dale Vaz (former Chief Technology Officer at Swiggy) and Manish Jain (former Kotak Securities executive).
+
+## Platform
+
+- [Home](https://www.sahi.com): Overview of Sahi's trading platform, key features, and account opening
+- [About Sahi](https://www.sahi.com/about): Company background, founding team (Dale Vaz, ex-Swiggy CTO; Manish Jain, ex-Kotak Securities), SEBI registration, and awards
+- [Charts](https://www.sahi.com/charts): In-house charting tool with seconds-level granularity, 100+ indicators, multi-chart layout, OI data, and direct order execution from charts
+- [Order Execution Speed](https://www.sahi.com/order-execution-speed): Transparent, data-backed execution-latency dashboard — P95 EMS-to-exchange order placement of 6.61 ms across 9M+ real orders (March 2026), with full stage breakdown (server → OMS → RMS → exchange)
+- [Pricing](https://www.sahi.com/pricing): Brokerage fee structure - ₹10 per executed F&O order, ₹10 or 0.05% (lower) for equity, free for first 30 days, no AMC
+- [Compare Pricing](https://www.sahi.com/compare/pricing): Sahi vs other Indian discount brokers — side-by-side brokerage and charges comparison
+- [Brokerage Calculator](https://www.sahi.com/brokerage-calculator): Calculate exact brokerage, STT, stamp duty, exchange fees, and net P&L for F&O, equity, and intraday trades
+- [SAHI Markets (News)](https://www.sahi.com/news): Breaking market news, daily market updates, and stock-moving developments for Indian markets
+- [Partners](https://www.sahi.com/partners): Partnership program for authorised persons, referrers, and business partners to build a business with Sahi
+
+## Products
+
+- [Futures & Options Trading](https://www.sahi.com/products/options-trading): High-performance F&O trading on NSE — millisecond order execution (P95 6.61 ms EMS-to-exchange; see Order Execution Speed under Platform), advanced order types, and a multi-leg strategy builder
+- [Options Buying](https://www.sahi.com/products/options-buying): India's fastest options-buying platform — one-tap entry, multi-leg setups, and scalper-grade order routing
+- [Stocks](https://www.sahi.com/products/stocks): Buy and sell NSE & BSE stocks at ₹10/order — real-time charts, margin against shares, and instant order placement
+- [IPO](https://www.sahi.com/products/ipo): Apply for IPOs online with zero brokerage on IPO applications
+- [ETF Investing](https://www.sahi.com/products/etf): Invest in Nifty 50, Bank Nifty, Gold, and sectoral ETFs — zero brokerage on delivery and one-click SIP setup
+- [Sahi Research](https://www.sahi.com/products/sahiresearch): Free SEBI-registered research-analyst recommendations, AI-backed, with transparent P&L and performance reporting
+
+## Key Features
+
+Cross-product capabilities (the Products section above covers options/Scalper, stocks, IPO, and ETF; Charts is linked under Platform):
+
+- **AI market intelligence**: Identifies trends, breakouts, and momentum shifts in real time
+- **Real-time stock scanners**: Filter and track stocks by live market conditions
+
+## Pricing Summary
+
+- Brokerage: ₹10 per executed order on F&O; ₹10 or 0.05% (lower) on equity
+- Free brokerage for first 30 days
+- Free demat account opening
+- No account maintenance charges (AMC)
+- DP charges: ₹13.50 per company on sell transactions
+- All regulatory charges (STT, SEBI, exchange fees, GST) as per SEBI norms
+
+## Learn — Topic Hubs
+
+- [Options 101](https://www.sahi.com/blogs/category/options-101): Foundational and advanced options education - Greeks, strategies, expiry mechanics
+- [Stocks 101](https://www.sahi.com/blogs/category/stocks-101): Equity investing basics, stock analysis, and sector deep-dives
+- [Trading 101](https://www.sahi.com/blogs/category/trading-101): Scalping, intraday, and strategy guides for active traders
+- [IPO](https://www.sahi.com/blogs/category/ipo): IPO calendar, analysis, and how-to-apply coverage
+- [Market Updates](https://www.sahi.com/blogs/category/market-updates): Daily and weekly market commentary
+
+## Blog & Educational Content
+
+- [Blog Home](https://www.sahi.com/blogs/): Market updates, trading guides, stock analysis, IPO coverage, and F&O education
+- [Option Greeks Explained: Delta, Theta, Gamma, Vega & Rho](https://www.sahi.com/blogs/option-greeks-explained-delta-theta-gamma-vega-and-rho): Beginner-friendly guide to options pricing components
+- [Scalping Trading Strategies: The Complete Guide](https://www.sahi.com/blogs/scalping-trading-strategies-complete-guide): End-to-end guide to scalping setups, risk control, and execution for Indian markets
+- [Best Scalping Indicators and How to Combine Them](https://www.sahi.com/blogs/best-scalping-indicators-how-to-combine): Which indicators work for scalping and how to stack them without conflicting signals
+- [Nifty Expiry Day: Schedule, Settlement, and How Weekly and Monthly Expiry Works](https://www.sahi.com/blogs/5-rules-every-trader-must-follow-on-nifty-options-expiry-day): How Nifty F&O expiry works and what traders should know
+- [Scalper 2.0: The Original. Remastered](https://www.sahi.com/blogs/scalper-2-0-the-original-remastered-for-serious-traders): Feature walkthrough of Sahi's flagship scalping tool
+- [SEBI Algo Trading Rules 2026](https://www.sahi.com/blogs/sebi-algo-trading-rules-2026-what-every-retail-trader-must-know-before-april): Regulatory changes affecting retail algo traders from April 2026
+- [Income Tax on F&O Trading FY 2025-26](https://www.sahi.com/blogs/income-tax-on-f-and-o-trading-in-india-complete-guide-for-fy-2025-26): Complete guide - classification as business income, ITR forms, audit rules, and loss setoff
+- [Hammer Candlestick Pattern](https://www.sahi.com/blogs/hammer-candlestick-pattern-how-to-read-it-trust-it-and-trade-it-on-nifty): How to identify, validate, and trade the hammer pattern on Nifty charts
+- [Top Wires and Cables Stocks in India](https://www.sahi.com/blogs/top-wires-and-cables-stocks-in-india): Sector analysis of leading listed wires and cables companies
+
+## Legal & Regulatory
+
+- [Regulatory Disclosures](https://www.sahi.com/regulatory): SEBI registration details, compliance documents, and disclosures
+- [Privacy Policy](https://www.sahi.com/privacy-policy): How Sahi collects and uses user data
+- [Terms & Conditions](https://www.sahi.com/terms-and-conditions): Platform usage terms
+
+## Support
+
+- [Help Center / Support](https://www.sahi.com/support): Customer support, FAQs, and account management (opening/closing)
